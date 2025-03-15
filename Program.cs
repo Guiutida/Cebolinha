@@ -5,6 +5,7 @@ Console.WriteLine();
 Console.WriteLine("Exemplo: Eu gosto de carros e do formato da lua");
 frase = Console.ReadLine();
 
+Thread.Sleep(5000);
 Console.Clear();
 
 frase = frase
